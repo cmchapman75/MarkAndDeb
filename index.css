@@ -27,11 +27,19 @@ h1 {
 	font-size: 38px;
 }
 
+h2 {
+	font-size: 32px;
+}
+
 img {
 	width: 400px;
 	height: auto;
 }
 
+.wreath {
+	width: 60px;
+	height: auto;
+}
 p {
 	text-align: center;
 	font-size: 28px;
