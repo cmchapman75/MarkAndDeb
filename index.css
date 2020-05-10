@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	text-align: center;
+}
+
+body {
+	background-color: rgb(1, 46, 1);
+	color: white;
+}
+
+header {
+	font-size: 45px;
+}
+
+h1 {
+	font-size: 38px;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+p {
+	text-align: center;
+	font-size: 16px;
+
+}
